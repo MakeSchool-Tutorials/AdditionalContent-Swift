@@ -1,4 +1,7 @@
-## Introducing Extensions
+---
+title: Extensions
+slug: extensions
+---
 
 In iOS, *extensions* are a clean and structured way to add functionality to an existing type. Extensions can be used on any type in iOS, including classes, structs, enums, and protocols.
 

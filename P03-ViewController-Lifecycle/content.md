@@ -1,4 +1,7 @@
-# The View Controller Lifecycle
+---
+title: View Controller Lifecycle
+slug: view-controller-lifecycle
+---
 
 In iOS, view controllers can be found in one of three states:
 

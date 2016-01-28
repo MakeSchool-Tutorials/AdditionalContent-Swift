@@ -1,4 +1,7 @@
-## Introducing Protocols
+---
+title: Protocols
+slug: protocols
+---
 
 Protocols are like contracts: Contracts formalize agreements between people by stating the agreement in writing. Similarly, protocols formalize the agreement between objects by stating the type of information that an object can request from another object. Specifically, protocols declare properties and methods. Consider this snippet of the `UITableViewDataSource` protocol:
 

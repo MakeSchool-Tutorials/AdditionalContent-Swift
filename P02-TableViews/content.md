@@ -1,4 +1,7 @@
-## Introducing Tables Views
+---
+title: Tables Views
+slug: table-views 
+---
 
 Table views are UI elements provided by the *UIKit Framework* that can display lists of information, where each piece of information is displayed in one cell.
 

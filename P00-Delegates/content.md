@@ -1,4 +1,7 @@
-## Introducing Delegates
+---
+title: Delegates
+slug: delegates
+---
 
 The concept of a delegate in iOS is very similar to the concept of a delegate in the real world. When we delegate tasks in the real world, we are effectively entrusting someone to do something on our behalf. For instance, if you were the CEO of a company, you may delegate someone to be your secretary, whom you entrust to schedule all of your meetings. Although you don’t specifically know your schedule for any given day, to find out, all you have to do is ask your secretary.
 

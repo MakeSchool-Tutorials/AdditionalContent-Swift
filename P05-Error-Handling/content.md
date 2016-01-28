@@ -1,4 +1,7 @@
-# Introduction to Error Handling
+---
+title: Introduction to Error Handling
+slug: intro-to-error-handling
+---
 
 When programming, it is common to see functions that have the possibility of failing. For instance, consider the scenario where a user wants to send data over the internet, but doesn't have an internet connection. Should the application crash? Probably not. It makes more sense for the application to display a message to the user indicating that they aren't currently connected to the internet.
 

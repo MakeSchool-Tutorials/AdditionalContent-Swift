@@ -62,4 +62,4 @@ extension CustomViewController: SomeCustomProtocol {
 }
 ```
 
-For more information on *extensions* checkout this [quick discussion--BROKEN LINK](link to extensions discussion).
+For more information on *extensions* checkout this [discussion](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Extensions.html).

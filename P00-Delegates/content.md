@@ -11,7 +11,7 @@ This is very similar to what’s happening with delegates in iOS. Consider a tab
 
 When hiring your secretary, you won’t just hire the first person that walks in your door, you will want to look for someone with a specific skill set, most likely someone that is really good at scheduling.
 
-The same thing is true for table views: To be a table view’s *dataSource*, you must have the right “skill set”. Specifically, you must be able to tell the table view how many cells it has and what information to display for each cell. In iOS, to ensure that the table view’s *dataSource* has the right skill set, we use a concept called **protocols**. (For more information on *protocols* checkout this [quick explanation-BROKEN LINK](link to protocol explanation)). Specifically, a table view's *dataSource* must conform to the `UITableViewDataSource` protocol.
+The same thing is true for table views: To be a table view’s *dataSource*, you must have the right “skill set”. Specifically, you must be able to tell the table view how many cells it has and what information to display for each cell. In iOS, to ensure that the table view’s *dataSource* has the right skill set, we use a concept called **protocols**. (For more information on *protocols* checkout this [quick explanation](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithProtocols/WorkingwithProtocols.html)). Specifically, a table view's *dataSource* must conform to the `UITableViewDataSource` protocol.
 
 --
 

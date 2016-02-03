@@ -32,4 +32,4 @@ When displaying information, a table view *must* know two things:
 1. Total number of cells
 2. What information to display for each specific cell
 
-To pass along this information to a table view, we use the table view’s `dataSource` property. The `dataSource` property is a special type of property called a **delegate**. For more information on *delegates* checkout this [quick discussion-BROKEN LINK](link to delegate discussion).
+To pass along this information to a table view, we use the table view’s `dataSource` property. The `dataSource` property is a special type of property called a **delegate**. For more information on *delegates* checkout this [quick explanation](http://stephenradford.me/creating-a-delegate-in-swift/).
